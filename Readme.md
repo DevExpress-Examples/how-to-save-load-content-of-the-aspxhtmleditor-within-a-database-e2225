@@ -21,6 +21,9 @@
 * [SpellCheckOptionsForm.ascx.cs](./CS/WebSite/DevExpress/ASPxSpellCheckerForms/SpellCheckOptionsForm.ascx.cs) (VB: [SpellCheckOptionsForm.ascx.vb](./VB/WebSite/DevExpress/ASPxSpellCheckerForms/SpellCheckOptionsForm.ascx.vb))
 <!-- default file list end -->
 # How to save/load content of the ASPxHtmlEditor within a database
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2225/)**
+<!-- run online end -->
 
 
 <p>This demo illustrates how to create an ASPxHtmlEditor's <a href="http://documentation.devexpress.com/#AspNet/DevExpressWebASPxHtmlEditorCustomToolbarMembersTopicAll">CustomToolbar</a> and provide the capability to save/load content of the ASPxHtmlEditor within a database.</p><p><strong>See Also:</strong><br />
